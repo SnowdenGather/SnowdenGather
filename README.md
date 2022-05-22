@@ -1,4 +1,4 @@
-<h1>Hi, I’m @SnowdenGather</h1>
+<h1>Hi, I’m Daniel</h1>
 
 - 👀 I’m interested in being software engineer or cybersecurity
 - 🌱 I’m currently learning JavaScript, python, Web development, Web Design, Ethical Hacking and Bash Script
