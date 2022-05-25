@@ -1,6 +1,7 @@
 <h1>Hi, I’m Daniel</h1>
 
 <h5>- I’m interested in being software engineer or cybersecurity</h5>
+##
 <h5>- I’m currently learning JavaScript, python, Web development, Web Design, Ethical Hacking and Bash Script</h5>
 
 <div align="left">
