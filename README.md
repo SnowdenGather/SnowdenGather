@@ -1,8 +1,14 @@
-<h1>Hi, I’m Daniel</h1>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=SnowdenGather&style=flat-square&color=blue" alt=""></p>
+
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 - I’m interested in being software engineer or cybersecurity
 - I’m currently learning JavaScript, python, Web development, Web Design, Ethical Hacking and Bash Script
 
+##
+
+### My stats
 <div align="left">
   <a href="https://github.com/SnowdenGather">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnowdenGather&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
