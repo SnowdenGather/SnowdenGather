@@ -3,7 +3,7 @@
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<h4>- 🌱 I’m interested in being software engineer or cybersecurity</h4>
+<h4>- 🌱 I’m interested in being software engineer or working in cybersecurity</h4>
 <h4>- ⚡ I’m currently learning JavaScript, python, Web development, Web Design, Ethical Hacking and Bash Script</h4>
 
 ---
