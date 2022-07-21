@@ -1,8 +1,8 @@
 # Hey there!, welcome to my Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 - :right_anger_bubble: My name is Daniel and this is my only profile that i have in <em>Github</em>.
-- :portugal: I'm Portuguese.
-- :boy: I'm 13 years old.
-- :loudspeaker: And yes SnowdenGather was inspired by <em>Edward Snowden</em> one of my favorite guys in Tech world.
+- I'm Portuguese.
+- :boy: I'm 13 years old, born in <a>13/01/2009</a>
+- :loudspeaker: And yes, the name that i use "SnowdenGather" was inspired by <em>Edward Snowden</em> one of my favorite guys in Tech world.
 
 ---
 
@@ -47,6 +47,52 @@
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
 </div>
 
+<br></br>
+
+### 🖍 &nbsp;Design
+---
+    
+<div>
+<img alt="Daniel-AffterAffects" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
+<img alt="Daniel-Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+<img alt="Daniel-Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+<img alt="Daniel-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
+</div>
+
+<br></br>
+
+### 📚 &nbsp;Education
+---
+
+<div>
+    <img alt="Daniel-CodeAcademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303342">
+    <img alt="Daniel-FreeCodeCamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white">
+ </div>
+ 
+<br></br>
+
+### 👨‍💻&nbsp;IDE
+---
+
+<div>
+    <img alt="Daniel-Vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img alt="Daniel-Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
+    <img alt="Daniel-SublimeText" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+    </div>
+    
+   <br></br>
+    
+    
+### 🌐&nbsp;Web Browsers
+---
+
+<div> <img alt="Daniel-GoogleChrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
+    <img alt="Daniel-Tor" src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
+</div>
+    
+    
+    
+    
 
 
 
