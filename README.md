@@ -1,6 +1,3 @@
-</p>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=SnowdenGather&style=flat-square&color=blue" alt=""></p>
-
 <h1 align="center">Hey there!, welcome to my Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <h4>My name is Daniel</h4>
 
@@ -41,16 +38,14 @@
 <br></br>
 
 ### 🎶 &nbsp;Sound
-
 ---
+
 <div>
 <a href="https://open.spotify.com/playlist/60X0hxUe1F4y3L0TtWDeol?si=03457d31b6834d87">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
 </div>
 
----
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 
