@@ -1,4 +1,4 @@
-# Hey there!
+# Hey there, welcome to my GitHub page!
 ---
 
 <div align="left">
