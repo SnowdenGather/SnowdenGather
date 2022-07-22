@@ -1,7 +1,4 @@
 # Hey there!
-- Portuguese.
-- :loudspeaker: And yes, the name that i use "SnowdenGather" was inspired by <em>Edward Snowden</em> one of my favorite guys in Hacking World.
-
 ---
 
 <div align="left">
