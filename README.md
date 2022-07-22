@@ -1,7 +1,6 @@
 # Hey there!, welcome to my Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 - :right_anger_bubble: My name is Daniel and this is my only profile that i have in <em>Github</em>.
 - I'm Portuguese.
-- :boy: I'm 13 years old, born in <a>13/01/2009</a>
 - :loudspeaker: And yes, the name that i use "SnowdenGather" was inspired by <em>Edward Snowden</em> one of my favorite guys in Tech world.
 
 ---
